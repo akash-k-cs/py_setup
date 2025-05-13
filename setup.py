@@ -11,7 +11,7 @@ class PostInstallCommand(install):
 
 setup(
     name='py_setup_tool',
-    version='0.1',
+    version='0.0.2',
     packages=['py_setup_tool'],
     install_requires=[],
     cmdclass={

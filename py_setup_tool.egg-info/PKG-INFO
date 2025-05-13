@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: py_setup_tool
-Version: 0.0.1
+Version: 0.0.2
 Summary: Python repository setup package
 Author-email: Akash Kanojia <akash.kanojia@contentstack.com>
 License-Expression: MIT
